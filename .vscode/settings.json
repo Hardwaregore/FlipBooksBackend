@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "0.0.0.0",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "FlipBooks",
+            "database": "FlipBooks",
+            "username": "FlipBooks",
+            "password": "Tr21o50cTQ2LtLvt67xfGXf5FP0NPtGZypdlAx8sFsMB0uVXLL"
+        }
+    ]
+}
